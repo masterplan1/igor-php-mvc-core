@@ -1,0 +1,15 @@
+{
+    "name": "tc/php-mvc-core",
+    "autoload": {
+        "psr-4": {
+            "Tc\\PhpMvcCore\\": "src/"
+        }
+    },
+    "authors": [
+        {
+            "name": "Igor Kole",
+            "email": "masterplan1@ukr.net"
+        }
+    ],
+    "require": {}
+}
